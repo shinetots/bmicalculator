@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_enter_weight_height">Enter your weight(meters) and height(kgs) below.</string>
+    <string name="label_message">     Calculate you Body Mass Index now!!.</string>
+    <string name="label_height">height</string>
+    <string name="label_weight">weight</string>
+
+</resources>
